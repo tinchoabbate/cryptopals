@@ -14,3 +14,5 @@ def singlebyte_xor_detector(data_path):
 if __name__ == '__main__':
     data_path = 'data/4.txt'
     print singlebyte_xor_detector(data_path)
+    # Now that the party is jumping
+    
